@@ -1,0 +1,12 @@
+h1 {
+	font-family: helvetica;
+	padding-top: 20vh;
+	text-align: center;
+	font-size: 200%;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
