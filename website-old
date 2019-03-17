@@ -1,0 +1,57 @@
+		<h2>Here's what I've been up to</h2>
+
+
+		<p class = "company-name"> Google</p>
+		<img src="http://www.stickpng.com/assets/images/5847f9cbcef1014c0b5e48c8.png"/>
+		<p class = "company-description"> I work on <a href = "https://cloud.google.com/identity/solutions/secure-corp-on-personal-devices">Device Management</a> within Google Cloud Identity. We ensure company data is secure without hindering employee productivity. </p>
+		<p class = "job-title"> Product Manager</p>
+		<p class = "job-timeframe">March 2018 - Present</p>
+		<p class = "job-description"> 
+			<ul>
+				<li>I launched <a href = "https://gsuiteupdates.googleblog.com/2018/08/secure-corporate-data-on-employee-ios-devices-with-google.html">a feature</a> to prevent corporate data leaks that's used by over 1MM users.</li>
+				<li> Led partnership with Android Enterprise to launch the <a href = "https://www.blog.google/products/android-enterprise/aer-emm/">Android Enterprise Recommended Program</a>, a set of recommended Device Management vendors that provide a set of required features and user experience </li>
+				<li> Leading G Suite on a joint security product to protect corporate data, launching in Q3 2019. Will be used by over 2MM users</li>
+			</ul>
+		</p>
+
+		<hr>
+
+		<p class = "company-name"> SimpleReach</p>
+		<img src = "https://media.glassdoor.com/sql/1163425/simplereach-squarelogo-1494535235319.png">
+		<p class = "company-description"> SimpleReach is a content analytics platform for publishers and brands. We helped them understand their content performance and optimize their content strategy by providing holistic dashboards, actionable insights, and granular reporting.
+
+			<br><br>I joined SimpleReach as an intern in 2013 when there were 10 employees and everyone wore multiple hats. I left in 2018 as a Product Manager after helping the company scale to 60 employees and through Series B funding.</p>
+			<p class = "job-title"> Product Manager</p>
+			<p class = "job-timeframe">March 2018 - Present</p>
+			<p class = "job-description"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas hendrerit ut lectus sed lacinia. Fusce a nulla nisi. Aliquam ornare tortor enim. Donec eu laoreet eros. Aenean ac scelerisque tortor, non cursus leo. Nam vestibulum eros eget tellus volutpat pellentesque. Quisque lacinia purus sed arcu mollis, eget maximus magna posuere. Duis suscipit porta finibus.</p> 
+
+			<p class = "job-title"> Senior Customer Success Manager</p>
+			<p class = "job-timeframe">March 2018 - Present</p>
+			<p class = "job-description"> 
+				<ul>
+					<li>Managed the relationships for our top clients and managed over $1.5M in ARR and hired, trained, and onboarded new Customer Success Managers. </li>
+					<li>Operated as the de-facto product manager - I conducted user research, worked with the engineers and designers on requirements, QA’d the product, and trained the business teams. I also built products to automate the team’s workflow. </li>
+					<li>Built automated reports in Google Apps Script to evaluate client health, invoice clients, and streamline operations across the board. When building these dashboards, I acted as the researcher, designer, product manager, and engineer. </li>
+				</ul>
+
+			</p> 
+
+			<p class = "job-title"> Account Manager</p>
+			<p class = "job-timeframe">March 2018 - Present</p>
+			<p class = "job-description"> I was a mix of a Customer Success Manager, Campaign Manager, and Product Manager:
+				<ul>
+					<li>Managed the entire relationship for our largest clients including implementation, onboarding, training, expansions, and paid distribution. </li>
+					<li>Helped launch and grow our Paid Distribution business to over $24M in yearly spend.</li>
+					<li>Worked with engineering to productize and automate the Paid Distribution workflow. I conducted user research with the other Account Managers to fully understand their workflow, came up with product and UX requirements, and worked with the engineers on implementation and iterating.</li>
+				</ul>
+			</p> 
+
+			<p class = "job-title"> Intern</p>
+			<p class = "job-timeframe">March 2018 - Present</p>
+			<p class = "job-description"> I was the main point of contact for all clients and managed their entire lifecycle including onboarding, training, and troubleshooting. One of my biggest projects was putting together reports for each client, coming up with a way to standardize these reports, and then working with engineering to automate them.</p> 
+
+			<p class = "company-name"> Johns Hopkins University</p>
+			<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/JHU_%22H%22_logo.png/608px-JHU_%22H%22_logo.png">
+			<p class = "company-description"> I studied Economics and Computer Science at Johns Hopkins University for two years before dropping out to help grow SimpleReach. </p>
+
+
