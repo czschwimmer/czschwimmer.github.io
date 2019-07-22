@@ -1,5 +1,5 @@
 body {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Roboto";
 }
 
 .body-text {
@@ -18,4 +18,8 @@ h1 {
 	height: 30%;
 	float: center;
 	padding-top: 20px;
+}
+
+p {
+	font-family: "Times New Roman";
 }
